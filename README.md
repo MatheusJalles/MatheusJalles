@@ -42,5 +42,4 @@ Aplicação voltada à mobilidade e qualidade de vida.
 
 ## 📫 Contato
 
-- LinkedIn: (coloque seu link aqui)
-- Email: (se quiser colocar)
+- LinkedIn: https://www.linkedin.com/in/matheus-jalles-3078881a8/
