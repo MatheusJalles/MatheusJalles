@@ -6,7 +6,8 @@
 - JavaScript  
 - React Native  
 - Desenvolvimento Mobile  
-- Front-end e Back-end  
+- Front-end e Back-end
+- Python
 
 
 ## 🧠 Sobre mim
