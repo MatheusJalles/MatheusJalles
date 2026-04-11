@@ -39,7 +39,7 @@ Projeto com foco em sustentabilidade e impacto social.
 🔹 **ProjMovimenta**  
 Aplicação voltada à mobilidade e qualidade de vida.  
 
-🔹 **Sistema de Gerenciamento de Entregas**
+🔹 **Sistema de Gerenciamento de Entregas
 Sistema WEB para gerenciamento de encomendas em condomínios.
 ---
 
