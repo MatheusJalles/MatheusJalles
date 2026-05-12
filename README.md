@@ -1,4 +1,4 @@
-# Olá, sou o Matheus Jalles 👋
+# Olá, sou o Matheus Jalles 
 
 Desenvolvedor Front-End em Belo Horizonte, cursando **Análise e Desenvolvimento de Sistemas na PUC Minas** (previsão: 2027).
 
@@ -48,7 +48,7 @@ Plataforma de conexão voltada para sustentabilidade e impacto social.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-0a0a0a?style=flat&logo=vercel&logoColor=d4f84a)](https://matheusjalles.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat&logo=linkedin&logoColor=d4f84a)](https://www.linkedin.com/in/matheus-jalles-3078881a8/)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat&logo=gmail&logoColor=d4f84a)](mailto:mtjales@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat&logo=gmail&logoColor=d4f84a)](mailto:contato.matheusjalles@gmail.com)
 
 ---
 
