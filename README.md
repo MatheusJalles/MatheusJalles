@@ -47,7 +47,7 @@ Plataforma de conexão voltada para sustentabilidade e impacto social.
 ## 📫 Contato
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-0a0a0a?style=flat&logo=vercel&logoColor=d4f84a)](https://matheusjalles.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat&logo=linkedin&logoColor=d4f84a)]((https://www.linkedin.com/in/matheus-jalles )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat&logo=linkedin&logoColor=d4f84a)](https://www.linkedin.com/in/matheus-jalles)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat&logo=gmail&logoColor=d4f84a)](mailto:contato.matheusjalles@gmail.com)
 
 ---
