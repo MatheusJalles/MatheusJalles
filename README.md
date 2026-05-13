@@ -38,7 +38,7 @@ Aplicação web para gerenciamento de tarefas com criação, edição e exclusã
 
 ---
 
-### 🌱 [Eco Connect](https://github.com/MatheusJalles/eeco-connect)
+### 🌱 [Eco Connect](https://github.com/MatheusJalles/ECO-CONNECT/tree/main)
 Plataforma de conexão voltada para sustentabilidade e impacto social.  
 `JavaScript` `HTML` `CSS` · **🚧 Em desenvolvimento**
 
