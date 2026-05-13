@@ -28,19 +28,19 @@ Sistema web completo para gerenciamento de condomínios — moradores, reservas 
 
 ### 💼 [Meu Controle MEI](https://github.com/MatheusJalles/meu-controle-mei)
 App mobile para controle financeiro de microempreendedores: receitas, despesas e relatórios. Desenvolvido com React Native e Expo.  
-`React Native` `Expo` `JavaScript` · **🚧 Em desenvolvimento**
+`React Native` `Expo` `JavaScript` · **🚧 Em desenvolvimento Maio/2026**
 
 ---
 
 ### ✅ [Movimenta](https://github.com/MatheusJalles/Movi-menta)
 Aplicação web para gerenciamento de tarefas com criação, edição e exclusão. Foco em lógica de programação e manipulação do DOM.  
-`JavaScript` `HTML` `CSS`
+`JavaScript` `HTML` `CSS`. **Desenvolvido academicamente✅**
 
 ---
 
 ### 🌱 [Eco Connect](https://github.com/MatheusJalles/ECO-CONNECT/tree/main)
 Plataforma de conexão voltada para sustentabilidade e impacto social.  
-`JavaScript` `HTML` `CSS` · **🚧 Em desenvolvimento**
+`JavaScript` `HTML` `CSS` · **Desenvolvido academicamente✅**
 
 ---
 
